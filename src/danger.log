@@ -1,0 +1,3 @@
+1. Our program has not checked the error xml file
+2. Our client did not have a proper way to receive, it only sent request to the server
+3. Our database is a bit of slow. Better design could be implemented.   
